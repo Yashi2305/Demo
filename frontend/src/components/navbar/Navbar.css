@@ -114,7 +114,13 @@
     }
     .navbar-right{
         align-items: center;
-        margin: -46px;
+        margin-right: -88px;
+        gap: 7px;
+    }
+    .navbar button{
+        width: 65px;
+        padding: 0px;
+        font-size: 12px;
     }
 }
 
